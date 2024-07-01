@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 211, 216);
+}
+h1{
+    text-align: center;
+}
+ul{
+    background-color: white;
+    width: auto;
+    height: 120px;
+    box-sizing: border-box; 
+}
+
+#line1{
+    padding: 10px 0;
+}
+#line2{
+    padding: 10px 0;
+}
+#line3{
+    padding: 10px 0;
+}
